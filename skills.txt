@@ -1,0 +1,9 @@
+1) Git
+2) Postman
+3) SQL
+4) Jmeter
+5) Jira
+6) Android Studio
+7) Charles
+8) Fiddler
+
